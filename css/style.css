@@ -86,23 +86,23 @@ justify-content: space-between;
 .footer{
     display: flex;
     width: 531px;
-    height: 221px;
     margin-top: 50px;
     padding-left: 600px;
     
 }
 .footerdiv{
-    text-align: center;
+    display: flex;
+    justify-content: space-around;
 }
 .footerdiv ul li{
     list-style: none;
-    text-decoration: none;
+    justify-content: space-around;
 
 }
 
 .footerdiv ul li a{ 
     text-decoration: none;
-    text-align: center;
+    
 }
 
 .fh2{
