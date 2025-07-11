@@ -91,18 +91,21 @@ justify-content: space-between;
     padding-left: 600px;
     
 }
+.footerdiv{
+    text-align: center;
+}
 .footerdiv ul li{
     list-style: none;
     text-decoration: none;
-    
 
 }
 
 .footerdiv ul li a{ 
     text-decoration: none;
+    text-align: center;
 }
 
 .fh2{
-    color: #8987A1
+    color: #4E47FF
     
 }
