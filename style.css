@@ -1,0 +1,108 @@
+.open-sans-railway {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+/* Common CSS */
+.btnclolr{
+
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+}
+
+header{
+    width: 1440PX;
+    height: 700PX;
+}
+
+.banner{
+    width: 905px;
+    height: 237px;
+    font-weight: bold;
+    font-size: 65px;
+    text-align: center;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 63px;
+    display: flex;           /* Horizontal layout */
+    justify-content: space-between; /* Space between logo and signup */
+    align-items: center;
+    color: #4E47FF;
+}
+
+.actionsection{
+
+display: flex;
+justify-content: space-between;
+
+}
+
+.Productivesection{
+    width: 1140;
+    height: 306px;
+    margin-left: 50px;   /* space on the left */
+  margin-right: 50px;
+  background-color: #82ebb1;
+  padding: 50px 80px;
+  margin-top: 100px;
+  border-radius: 10px;
+} 
+.Productivesectiontext{
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+
+
+}
+.Productivesectionitems{
+    display: flex;
+    justify-content: space-around;
+
+}
+.itemtitle{
+    color: #4E47FF;
+    font-size: 4em;
+}
+
+.letsgo{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.f1{
+    display: flex;
+
+}
+
+.footer{
+    display: flex;
+    width: 531px;
+    height: 221px;
+    margin-top: 50px;
+    padding-left: 600px;
+    
+}
+.footerdiv ul li{
+    list-style: none;
+    text-decoration: none;
+    
+
+}
+
+.footerdiv ul li a{ 
+    text-decoration: none;
+}
+
+.fh2{
+    color: #8987A1
+    
+}
